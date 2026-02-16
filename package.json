@@ -1,0 +1,1 @@
+{\n  "name": "manga-v1",\n  "version": "1.0.0",\n  "dependencies": {\n    "typescript": "^4.5.4",\n    "react": "^17.0.2",\n    "@gemini/api": "^1.0.0",\n    "@google-cloud/vision": "^2.4.0"\n  }\n}
